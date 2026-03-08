@@ -1,4 +1,4 @@
-roperty Purchase Simulation with Mortgage Calculations
+Property Purchase Simulation with Mortgage Calculations
 Introduction
 Welcome to the Property Purchase Simulation program. This application is designed to help potential property buyers understand the financial implications of purchasing a property, including calculations for stamp duty, mortgage options, and monthly housing expenses. The program is particularly oriented towards the context of Hong Kong's real estate market, allowing users to input various parameters to simulate their buying experience.
 
@@ -47,6 +47,4 @@ Follow the on-screen prompts to enter the required information. You will receive
 
 Conclusion
 The Property Purchase Simulation program is an essential tool for anyone looking to understand the costs associated with purchasing property, especially in a competitive market like Hong Kong. By providing a clear breakdown of financial factors, the program empowers users to make informed decisions on home buying and financing.
-
-For further enhancements or features, you are welcome to contribute or suggest improvements! Thank you for using our simulation program. Happy house hunting!
 
